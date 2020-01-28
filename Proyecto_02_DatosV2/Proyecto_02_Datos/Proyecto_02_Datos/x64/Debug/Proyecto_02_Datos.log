@@ -1,0 +1,11 @@
+﻿  Dibujo.cpp
+c:\users\pc\downloads\proyecto_02_datosv2\proyecto_02_datos\proyecto_02_datos\ventana.h(2): fatal error C1083: No se puede abrir el archivo incluir: 'SFML/Window.hpp': No such file or directory
+  Matriz.cpp
+c:\users\pc\downloads\proyecto_02_datosv2\proyecto_02_datos\proyecto_02_datos\ventana.h(2): fatal error C1083: No se puede abrir el archivo incluir: 'SFML/Window.hpp': No such file or directory
+  Menu.cpp
+c:\users\pc\downloads\proyecto_02_datosv2\proyecto_02_datos\proyecto_02_datos\ventana.h(2): fatal error C1083: No se puede abrir el archivo incluir: 'SFML/Window.hpp': No such file or directory
+  Source.cpp
+c:\users\pc\downloads\proyecto_02_datosv2\proyecto_02_datos\proyecto_02_datos\ventana.h(2): fatal error C1083: No se puede abrir el archivo incluir: 'SFML/Window.hpp': No such file or directory
+  Ventana.cpp
+c:\users\pc\downloads\proyecto_02_datosv2\proyecto_02_datos\proyecto_02_datos\ventana.h(2): fatal error C1083: No se puede abrir el archivo incluir: 'SFML/Window.hpp': No such file or directory
+  Generando código...
