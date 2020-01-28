@@ -1,0 +1,6 @@
+﻿  Matriz.cpp
+c:\users\pc\downloads\proyecto_02_datosv2\proyecto_02_datos\proyecto_02_datos\matriz.cpp(290): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\pc\downloads\proyecto_02_datosv2\proyecto_02_datos\proyecto_02_datos\matriz.cpp(401): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\pc\downloads\proyecto_02_datosv2\proyecto_02_datos\proyecto_02_datos\matriz.cpp(495): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
+c:\users\pc\downloads\proyecto_02_datosv2\proyecto_02_datos\proyecto_02_datos\matriz.cpp(201): warning C4715: 'Gato::dibuja': no todas las rutas de acceso de control devuelven un valor
+  Proyecto_02_Datos.vcxproj -> C:\Users\pc\Downloads\Proyecto_02_DatosV2\Proyecto_02_Datos\Debug\Proyecto_02_Datos.exe
